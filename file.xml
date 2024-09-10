@@ -1,0 +1,134 @@
+<icecream_menu>
+    <item>
+        <name>Classic Vanilla</name>
+        <price>$3.50</price>
+        <description>Creamy and smooth vanilla ice cream made with Madagascar vanilla beans</description>
+        <calories>250</calories>
+    </item>
+    <item>
+        <name>Chocolate Fudge</name>
+        <price>$4.00</price>
+        <description>Rich chocolate ice cream with swirls of decadent fudge</description>
+        <calories>350</calories>
+    </item>
+    <item>
+        <name>Strawberry Delight</name>
+        <price>$4.25</price>
+        <description>Sweet strawberry ice cream made with real strawberries</description>
+        <calories>300</calories>
+    </item>
+    <item>
+        <name>Mint Chocolate Chip</name>
+        <price>$4.50</price>
+        <description>Refreshing mint ice cream with crunchy chocolate chips</description>
+        <calories>325</calories>
+    </item>
+    <item>
+        <name>Cookies and Cream</name>
+        <price>$4.75</price>
+        <description>Vanilla ice cream mixed with chunks of chocolate cookies</description>
+        <calories>400</calories>
+    </item>
+    <item>
+        <name>Rocky Road</name>
+        <price>$5.00</price>
+        <description>Chocolate ice cream with marshmallows and almonds</description>
+        <calories>450</calories>
+    </item>
+    <item>
+        <name>Pistachio</name>
+        <price>$4.25</price>
+        <description>Smooth pistachio-flavored ice cream with real pistachios</description>
+        <calories>320</calories>
+    </item>
+    <item>
+        <name>Butter Pecan</name>
+        <price>$4.50</price>
+        <description>Rich butter-flavored ice cream with crunchy pecans</description>
+        <calories>375</calories>
+    </item>
+    <item>
+        <name>Salted Caramel</name>
+        <price>$4.75</price>
+        <description>Sweet and salty caramel ice cream with a hint of sea salt</description>
+        <calories>380</calories>
+    </item>
+    <item>
+        <name>Banana Split</name>
+        <price>$6.50</price>
+        <description>Three scoops of ice cream (vanilla, chocolate, strawberry) with banana, chocolate syrup, and whipped cream</description>
+        <calories>550</calories>
+    </item>
+    <item>
+        <name>Coffee Crunch</name>
+        <price>$4.75</price>
+        <description>Coffee-flavored ice cream with crunchy chocolate bits</description>
+        <calories>340</calories>
+    </item>
+    <item>
+        <name>Cherry Garcia</name>
+        <price>$4.75</price>
+        <description>Cherry ice cream with real cherry pieces and chocolate flakes</description>
+        <calories>370</calories>
+    </item>
+    <item>
+        <name>Raspberry Sorbet</name>
+        <price>$4.00</price>
+        <description>Tangy raspberry sorbet made with real fruit</description>
+        <calories>220</calories>
+    </item>
+    <item>
+        <name>Mango Sorbet</name>
+        <price>$4.00</price>
+        <description>Sweet and refreshing mango sorbet made with ripe mangoes</description>
+        <calories>240</calories>
+    </item>
+    <item>
+        <name>Peanut Butter Cup</name>
+        <price>$4.75</price>
+        <description>Peanut butter ice cream with chocolate swirls and peanut butter cups</description>
+        <calories>430</calories>
+    </item>
+    <item>
+        <name>Maple Walnut</name>
+        <price>$4.50</price>
+        <description>Maple-flavored ice cream with crunchy walnuts</description>
+        <calories>375</calories>
+    </item>
+    <item>
+        <name>Caramel Swirl</name>
+        <price>$4.50</price>
+        <description>Creamy vanilla ice cream with swirls of caramel</description>
+        <calories>360</calories>
+    </item>
+    <item>
+        <name>Blackberry Cheesecake</name>
+        <price>$5.00</price>
+        <description>Cheesecake-flavored ice cream with blackberry swirls</description>
+        <calories>425</calories>
+    </item>
+    <item>
+        <name>Matcha Green Tea</name>
+        <price>$4.75</price>
+        <description>Smooth green tea ice cream made with authentic matcha powder</description>
+        <calories>300</calories>
+    </item>
+    <item>
+        <name>Hazelnut Crunch</name>
+        <price>$4.75</price>
+        <description>Hazelnut-flavored ice cream with crunchy hazelnut pieces</description>
+        <calories>390</calories>
+    </item>
+    <item>
+        <name>Lemon Sorbet</name>
+        <price>$4.00</price>
+        <description>Tangy and refreshing lemon sorbet made with real lemon juice</description>
+        <calories>200</calories>
+    </item>
+    <item>
+        <name>Brownie Fudge</name>
+        <price>$5.25</price>
+        <description>Chocolate ice cream with chunks of fudgy brownies and chocolate swirls</description>
+        <calories>450</calories>
+    </item>
+</icecream_menu>
